@@ -1,0 +1,7 @@
+== Credits ==
+
+Vector graphic in the plugin's banner/icon by freepik
+
+Readmore JQuery Plugin by Jed Foster
+
+CMB2 Metabox Library by WebDevStudios

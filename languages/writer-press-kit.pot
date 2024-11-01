@@ -1,0 +1,581 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Writer Press Kit\n"
+"POT-Creation-Date: 2016-11-03 06:44-0400\n"
+"PO-Revision-Date: 2016-11-03 06:43-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: writer-press-kit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: inc/wpk-class.php:45 inc/wpk-class.php:95
+msgid "Writer Press Kit"
+msgstr ""
+
+#: inc/wpk-class.php:171 inc/wpk-class.php:464
+msgid "Author Profile"
+msgstr ""
+
+#: inc/wpk-class.php:175 inc/wpk-class.php:476
+msgid "Bio"
+msgstr ""
+
+#: inc/wpk-class.php:180 inc/wpk-class.php:483
+msgid "Introduction for Speaking Engagements"
+msgstr ""
+
+#: inc/wpk-class.php:187
+msgid "Photos"
+msgstr ""
+
+#: inc/wpk-class.php:190
+msgid "Print Quality"
+msgstr ""
+
+#: inc/wpk-class.php:198 inc/wpk-class.php:199 inc/wpk-class.php:215
+#: inc/wpk-class.php:216
+msgid "View Full Size"
+msgstr ""
+
+#: inc/wpk-class.php:207
+msgid "Web Quality"
+msgstr ""
+
+#: inc/wpk-class.php:229 inc/wpk-class.php:599
+msgid "Photo Usage Policy"
+msgstr ""
+
+#: inc/wpk-class.php:239 inc/wpk-class.php:620
+msgid "Media Formats"
+msgstr ""
+
+#: inc/wpk-class.php:251 inc/wpk-class.php:640
+msgid "Print"
+msgstr ""
+
+#: inc/wpk-class.php:257 inc/wpk-class.php:656
+msgid "Radio"
+msgstr ""
+
+#: inc/wpk-class.php:263 inc/wpk-class.php:672
+msgid "Television"
+msgstr ""
+
+#: inc/wpk-class.php:269 inc/wpk-class.php:688
+msgid "Internet"
+msgstr ""
+
+#: inc/wpk-class.php:276 inc/wpk-class.php:716
+msgid "Sample Interview Questions"
+msgstr ""
+
+#: inc/wpk-class.php:300 inc/wpk-class.php:777
+msgid "Author Representation"
+msgstr ""
+
+#: inc/wpk-class.php:304 inc/wpk-class.php:789
+msgid "Publicist"
+msgstr ""
+
+#: inc/wpk-class.php:309 inc/wpk-class.php:797
+msgid "Agent"
+msgstr ""
+
+#: inc/wpk-class.php:363
+msgid "Content for Press Kit"
+msgstr ""
+
+#: inc/wpk-class.php:392
+msgid "Plugin Info"
+msgstr ""
+
+#: inc/wpk-class.php:397
+msgid "Version"
+msgstr ""
+
+#: inc/wpk-class.php:398
+msgid "Docs"
+msgstr ""
+
+#: inc/wpk-class.php:399
+msgid "Rate"
+msgstr ""
+
+#: inc/wpk-class.php:399
+msgid "Rate the plugin"
+msgstr ""
+
+#: inc/wpk-class.php:468 inc/wpk-class.php:506 inc/wpk-class.php:624
+#: inc/wpk-class.php:721 inc/wpk-class.php:781 inc/wpk-class.php:824
+msgid "Show/Hide"
+msgstr ""
+
+#: inc/wpk-class.php:469 inc/wpk-class.php:507 inc/wpk-class.php:625
+#: inc/wpk-class.php:722 inc/wpk-class.php:782 inc/wpk-class.php:825
+msgid "Check to include this section. Uncheck to hide."
+msgstr ""
+
+#: inc/wpk-class.php:484
+msgid ""
+"Many publicists recommend furnishing your own introduction to prevent event "
+"organizers from preparing one on your behalf."
+msgstr ""
+
+#: inc/wpk-class.php:502
+msgid "Author Photos"
+msgstr ""
+
+#: inc/wpk-class.php:515
+msgid "Print Quality - Color"
+msgstr ""
+
+#: inc/wpk-class.php:516
+msgid "Upload a high resolution color photo suitable for printing"
+msgstr ""
+
+#: inc/wpk-class.php:522 inc/wpk-class.php:543 inc/wpk-class.php:564
+#: inc/wpk-class.php:585
+msgid "Add Photo"
+msgstr ""
+
+#: inc/wpk-class.php:528 inc/wpk-class.php:549 inc/wpk-class.php:570
+#: inc/wpk-class.php:591
+msgid "Photographer Credit"
+msgstr ""
+
+#: inc/wpk-class.php:536
+msgid "Print Quality - Black & White"
+msgstr ""
+
+#: inc/wpk-class.php:537
+msgid "Upload a high resolution grayscale photo suitable for printing"
+msgstr ""
+
+#: inc/wpk-class.php:557
+msgid "Web Quality - Color"
+msgstr ""
+
+#: inc/wpk-class.php:558
+msgid "Upload a color image suitable for use on the web and mobile devices"
+msgstr ""
+
+#: inc/wpk-class.php:578
+msgid "Web Quality - Black & White"
+msgstr ""
+
+#: inc/wpk-class.php:579
+msgid "Upload a grayscale image suitable for use on the web and mobile devices"
+msgstr ""
+
+#: inc/wpk-class.php:601
+msgid "Edit the above text or delete it."
+msgstr ""
+
+#: inc/wpk-class.php:602
+msgid ""
+"The above photos may be used by the media as part of coverage of me or my "
+"books. All other uses are prohibited without my express consent."
+msgstr ""
+
+#: inc/wpk-class.php:633
+msgid "Intro Text"
+msgstr ""
+
+#: inc/wpk-class.php:635
+msgid "I am comfortable with the following formats:"
+msgstr ""
+
+#: inc/wpk-class.php:641
+msgid "Check to include Print"
+msgstr ""
+
+#: inc/wpk-class.php:648
+msgid "Past Coverage (Optional)"
+msgstr ""
+
+#: inc/wpk-class.php:649
+msgid ""
+"Highlight previous experiences with print media, such as past interviews."
+msgstr ""
+
+#: inc/wpk-class.php:657
+msgid "Check to include Radio"
+msgstr ""
+
+#: inc/wpk-class.php:664 inc/wpk-class.php:680
+msgid "Past Appearances (Optional)"
+msgstr ""
+
+#: inc/wpk-class.php:665
+msgid ""
+"Highlight some previous experiences with radio, such as past interviews."
+msgstr ""
+
+#: inc/wpk-class.php:673
+msgid "Check to include TV"
+msgstr ""
+
+#: inc/wpk-class.php:681
+msgid "Highlight previous TV appearances, if any"
+msgstr ""
+
+#: inc/wpk-class.php:689
+msgid "Check to include Internet"
+msgstr ""
+
+#: inc/wpk-class.php:696
+msgid "Past Experience (Optional)"
+msgstr ""
+
+#: inc/wpk-class.php:697
+msgid ""
+"Highlight some previous experiences with Internet-based media, such as "
+"blogs, webzines and podcasts."
+msgstr ""
+
+#: inc/wpk-class.php:717
+msgid ""
+"Instructions: Enter one or more questions that a typical interviewer would "
+"ask about you or your book. If you prefer, you may also provide answers."
+msgstr ""
+
+#: inc/wpk-class.php:728 inc/wpk-class.php:741 inc/wpk-class.php:754
+msgid "Question"
+msgstr ""
+
+#: inc/wpk-class.php:734 inc/wpk-class.php:747 inc/wpk-class.php:760
+msgid "Answer (Optional)"
+msgstr ""
+
+#: inc/wpk-class.php:791
+msgid "Enter the name and public contact details for your publicist."
+msgstr ""
+
+#: inc/wpk-class.php:799
+msgid "Enter the name and public contact details for your agent."
+msgstr ""
+
+#: inc/wpk-class.php:819
+msgid "Custom Section"
+msgstr ""
+
+#: inc/wpk-class.php:820
+msgid ""
+"Instructions: Use this optional section to add any content of your choosing "
+"to your press kit."
+msgstr ""
+
+#: inc/wpk-class.php:832
+msgid "Title"
+msgstr ""
+
+#: inc/wpk-class.php:833
+msgid "Enter the title for your custom section."
+msgstr ""
+
+#: inc/wpk-class.php:840
+msgid "Content"
+msgstr ""
+
+#: inc/wpk-class.php:842
+msgid "Enter content for your custom section."
+msgstr ""
+
+#: inc/wpk-class.php:859
+msgid "Disable the plugin's CSS and rely on CSS from my theme"
+msgstr ""
+
+#: inc/wpk-class.php:866
+msgid ""
+"Disable the Read More functionality and show all content at its full length"
+msgstr ""
+
+#: inc/wpk-class.php:888
+msgid "Settings updated."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2.php:117
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2.php:432
+msgid "Click to toggle"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:181
+#: lib/cmb2/includes/helper-functions.php:95
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:338
+#, php-format
+msgid ""
+"The \"%s\" field parameter has been deprecated in favor of the \"%s\" "
+"parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:342
+#, php-format
+msgid ""
+"Using the \"%s\" field parameter as a callback has been deprecated in favor "
+"of the \"%s\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:372
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:375
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:408
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:138
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:422
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:123
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1116
+msgid "Add Group"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1117
+msgid "Remove Group"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1139 lib/cmb2/includes/CMB2_Field.php:1143
+msgid "None"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1204
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field_Display.php:408
+#: lib/cmb2/includes/CMB2_JS.php:155
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:96 lib/cmb2/includes/CMB2_JS.php:135
+msgid "Clear"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:97
+msgid "Default"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:98
+msgid "Select Color"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:99
+msgid "Current Color"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:125
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:126
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:127
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:128
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:129
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:130
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:131
+msgid "Next"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:132
+msgid "Prev"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:133
+msgid "Today"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:134 lib/cmb2/includes/CMB2_JS.php:144
+msgid "Done"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:138
+msgid "Choose Time"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:139
+msgid "Time"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:140
+msgid "Hour"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:141
+msgid "Minute"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:142
+msgid "Second"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:143
+msgid "Now"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:145
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:151
+msgid "Use this file"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:152
+msgid "Use these files"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:153
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:154 lib/cmb2/includes/CMB2_Types.php:303
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:156
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:157
+msgid "Select / Deselect All"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:171
+#, php-format
+msgid ""
+"Custom field types require a Type object instantiation to use this method. "
+"This method was called by the '%s' field type."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:174
+msgid "That field type may not work as expected."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:175
+msgid "That field type will not work as expected."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:177
+msgid ""
+"For more information about this change see: https://github.com/mustardBees/"
+"cmb-field-select2/pull/34w"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:240
+msgid "Add Row"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:128
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:132
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/helper-functions.php:284
+msgid "Save"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File.php:36
+msgid "Add or Upload File"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File_List.php:36
+msgid "Add or Upload Files"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: lib/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr ""
+
+#: writer-press-kit.php:60
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://cato.io/writer-press-kit"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables book authors to easily produce a professional-quality press kit"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jamel Cato"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cato.io"
+msgstr ""

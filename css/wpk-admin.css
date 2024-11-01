@@ -1,0 +1,88 @@
+/*
+ * CSS for Admin Screen
+ *
+ * @package WordPress
+ * @subpackage Writer Press Kit Plugin
+ * @author Jamel Cato
+ * @since 1.0.0
+ */
+ 
+
+#wpk-plugin-info span {
+    font-weight: bold;
+    margin-right: 6px;
+    width: 25%;
+    display: inline-block
+}
+.accordion-toggle {
+    cursor: pointer;
+}
+.accordion-content {
+    display: none;
+}
+.accordion-content.default {
+    display: block;
+}
+
+.tools_page_writer-press-kit  {
+    min-height: 1000px
+}
+.tools_page_writer-press-kit .wpk-group-title {
+    padding: 0.5em 1%;
+    font-size: 110%;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    margin: 1em auto 0 auto !important;
+	font-weight:bold
+}
+.tools_page_writer-press-kit .wpk-group-title span {
+    float: right;
+    content: "\f142";
+    font: dashicons
+}
+.tools_page_writer-press-kit .accordion-content {
+    background-color: #fff;
+    padding: 1em;
+    margin: 0 auto !important
+}
+.tools_page_writer-press-kit .accordion-content .cmb-type-title {
+    display: none
+}
+#wpk-settings .cmb-th label {
+    padding: 0
+}
+.tools_page_writer-press-kit .button-primary { 
+	margin:2em 0
+}
+.tools_page_writer-press-kit .wpk-info {
+	border: 1px solid #ddd;
+	padding-left: 20px;
+	line-height: 1em;
+	margin:15px auto;
+	border-left: 6px solid #0073aa;
+}
+.tools_page_writer-press-kit #wpk-custom-css {
+	background-color: #0073aa;
+	color:#fff;
+}
+.tools_page_writer-press-kit hr {
+	color:#eee;
+	margin: 2em 0;
+}
+.tools_page_writer-press-kit .cmb2-wrap textarea {
+	max-width:350px;
+}
+
+.tools_page_writer-press-kit .wp-editor-wrap textarea {
+	width:100%;
+	max-width:100%;
+}
+.tools_page_writer-press-kit .wp-editor-wrap {
+	max-width:460px;
+}
+.tools_page_writer-press-kit .cmb2-metabox-description{
+	overflow:auto;
+	max-width:460px;
+	color:#888;
+}
+

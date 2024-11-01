@@ -1,0 +1,123 @@
+ /* CSS for Frontend
+ *
+ * @package WordPress
+ * @subpackage Writer Press Kit Plugin
+ * @author Jamel Cato
+ * @since 1.0.0
+ */
+ 
+#press-kit-container .wpk-row{
+	margin-bottom:2.5em
+}
+#press-kit-container .wpk-item-wrap {
+  display: flex;
+  background-color: transparent;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  padding: 0;
+  max-width:100%;
+}
+#press-kit-container .wpk-item-title {
+  display: block;
+  float:left;
+  width:30%;
+  font-weight:bold;
+  padding-right:1%;
+  margin-bottom:1em;
+} 
+ #press-kit-container .wpk-item-content {
+  display: block;
+  float:left;
+  width:69%;
+} 
+ #press-kit-container .wpk-full {
+  display: block;
+  float:left;
+  width:100%;
+} 
+#press-kit-container a[data-readmore-toggle],   #press-kit-container a[data-readmore] {
+  display: inline;
+  width:auto;
+  text-align:left;
+ margin-left:30%;
+} 
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  #press-kit-container .wpk-item-title, #press-kit-container .wpk-item-content{
+	width: 100%;
+	margin-bottom:1em;
+  }
+   #press-kit-container a[data-readmore-toggle],   #press-kit-container a[data-readmore] {
+	margin-left:0;
+ }
+}
+#press-kit-container .wpk-qual {
+	 width:100%; 
+	 text-align:left;
+}
+#press-kit-container .wpk-qual:last-child {
+	 margin-top:2em
+ }
+#press-kit-container .wpk-photo-credit { 
+ color:#888
+ }
+#press-kit-container h2 {
+ margin:4em 0 1.5em 0; 
+ padding-bottom:0.5em;
+ border-bottom:1px solid #ddd;
+}
+#press-kit-container h2:first-child {
+	margin-top:1.5em
+}
+#press-kit-container .wpk-dl {
+  display: flex;
+  background-color: transparent;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  padding: 0;
+  max-width: 980px;
+  font-size: 90%;
+  text-align:center;
+}
+#press-kit-container .wpk-dl section {
+  display: block;
+  float: left;
+  flex: 0 0 auto;
+  background-color: #fff;
+  padding:0;
+  width: calc(100%/2);
+  max-width:100%;
+  line-height:1.3em;
+}
+#press-kit-container .wpk-dl section img {
+  padding:6px 6px 15px ;
+  max-width:100%;
+}
+#press-kit-container .wpk-dl section li {
+	list-style-type:none;
+	padding: 0 0 0.5em 0;
+	margin:none !important;
+}
+@media screen and (min-width: 1024px) {
+  #press-kit-container .wpk-dl section {
+    width: calc(100%/2);
+    height: calc(100%/2);
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  #press-kit-container .wpk-dl section  {
+    width: calc(100%/2);
+    height: calc(100%/2);
+	margin-bottom:2em;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  #press-kit-container .wpk-dl section {
+    width: 100%;
+    height: 100%;
+	margin-bottom:2em;
+  }
+}
